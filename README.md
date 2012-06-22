@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 webwork-open-problem-library
 =============================
 
@@ -12,10 +11,3 @@ Notes
 -----
 
 This library was previously called the National Problem Library.
-
-=======
-webwork-open-problem-library2
-=============================
-
-A library of WeBWorK problem contributed by the OpenWeBWorK community
->>>>>>> Initial commit

@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 *~
-=======
->>>>>>> Initial commit
 blib/
 .build/
 _build/
@@ -10,8 +7,6 @@ inc/
 Build
 Build.bat
 .last_cover_stats
-Makefile
-Makefile.old
 MANIFEST.bak
 META.yml
 MYMETA.yml
